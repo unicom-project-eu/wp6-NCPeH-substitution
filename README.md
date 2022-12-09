@@ -12,5 +12,5 @@ Information about this will be released soon on this public directory of [UNICOM
 
 ![Rule methodology](/image/rule_design.png)
 
-# Simple architecture diagram
+# Simple architecture diagram & interoperability with other components
 ![Software approac](/image/Substitution_result.png)
