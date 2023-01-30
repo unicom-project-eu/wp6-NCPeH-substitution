@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Project" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.gnomon.substitution.Main" />
+    <module name="Substitution_R4B" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,3547 @@
+[
+  {
+    "RMS": "200000003236",
+    "Display name": "Solution for cardioplegia/organ preservation",
+    "EDQM": "13107000"
+  },
+  {
+    "RMS": "100000174018",
+    "Display name": "Suspension for spray",
+    "EDQM": "13038000"
+  },
+  {
+    "RMS": "100000174030",
+    "Display name": "Solution for spray",
+    "EDQM": "13034000"
+  },
+  {
+    "RMS": "100000074055",
+    "Display name": "Solvent for solution for infusion",
+    "EDQM": "50076000"
+  },
+  {
+    "RMS": "100000143551",
+    "Display name": "Inhalation vapour, impregnated plug",
+    "EDQM": "50033100"
+  },
+  {
+    "RMS": "100000073875",
+    "Display name": "Implantation chain",
+    "EDQM": "11303000"
+  },
+  {
+    "RMS": "100000073696",
+    "Display name": "Oromucosal cream",
+    "EDQM": "10314010"
+  },
+  {
+    "RMS": "100000073785",
+    "Display name": "Ear gel",
+    "EDQM": "10702000"
+  },
+  {
+    "RMS": "100000073791",
+    "Display name": "Ear tampon",
+    "EDQM": "10714000"
+  },
+  {
+    "RMS": "100000073771",
+    "Display name": "Eye cream",
+    "EDQM": "10601000"
+  },
+  {
+    "RMS": "200000004200",
+    "Display name": "Nebuliser dispersion",
+    "EDQM": "13129000"
+  },
+  {
+    "RMS": "100000073755",
+    "Display name": "Teat spray solution",
+    "EDQM": "10546000"
+  },
+  {
+    "RMS": "100000073831",
+    "Display name": "Powder for rectal solution",
+    "EDQM": "11009000"
+  },
+  {
+    "RMS": "100000073872",
+    "Display name": "Lyophilisate for solution for infusion",
+    "EDQM": "11215000"
+  },
+  {
+    "RMS": "100000073905",
+    "Display name": "Intramammary emulsion",
+    "EDQM": "11803000"
+  },
+  {
+    "RMS": "100000073913",
+    "Display name": "Solution for blood fraction modification",
+    "EDQM": "12103000"
+  },
+  {
+    "RMS": "100000073363",
+    "Display name": "Oral gel",
+    "EDQM": "10108000"
+  },
+  {
+    "RMS": "100000073722",
+    "Display name": "Dental stick",
+    "EDQM": "10403000"
+  },
+  {
+    "RMS": "100000073780",
+    "Display name": "Ear drops, suspension",
+    "EDQM": "10705000"
+  },
+  {
+    "RMS": "100000073792",
+    "Display name": "Nasal cream",
+    "EDQM": "10801000"
+  },
+  {
+    "RMS": "100000116131",
+    "Display name": "Oromucosal ointment",
+    "EDQM": "10314005"
+  },
+  {
+    "RMS": "100000073896",
+    "Display name": "Intrauterine suspension",
+    "EDQM": "11903000"
+  },
+  {
+    "RMS": "100000073756",
+    "Display name": "Solution for skin-prick test",
+    "EDQM": "10548000"
+  },
+  {
+    "RMS": "100000073764",
+    "Display name": "Pour-on solution",
+    "EDQM": "10537000"
+  },
+  {
+    "RMS": "100000073859",
+    "Display name": "Powder for solution for infusion",
+    "EDQM": "11212000"
+  },
+  {
+    "RMS": "100000073885",
+    "Display name": "Solution for haemofiltration",
+    "EDQM": "11402000"
+  },
+  {
+    "RMS": "100000173956",
+    "Display name": "Powder for prolonged-release suspension for injection",
+    "EDQM": "11208400"
+  },
+  {
+    "RMS": "100000174053",
+    "Display name": "Powder for bee-hive solution",
+    "EDQM": "13079000"
+  },
+  {
+    "RMS": "100000074067",
+    "Display name": "Solvent for solution for intraocular irrigation",
+    "EDQM": "50074000"
+  },
+  {
+    "RMS": "100000111496",
+    "Display name": "Age-appropriate dosage form, other",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073804",
+    "Display name": "Ear wash, emulsion",
+    "EDQM": "10713000"
+  },
+  {
+    "RMS": "100000074036",
+    "Display name": "Prolonged-release granules for oral suspension",
+    "EDQM": "50056000"
+  },
+  {
+    "RMS": "100000074044",
+    "Display name": "Radiopharmaceutical precursor, solution",
+    "EDQM": "50056500"
+  },
+  {
+    "RMS": "200000011722",
+    "Display name": "Gastro-resistant powder for oral suspension",
+    "EDQM": "13136000"
+  },
+  {
+    "RMS": "100000073658",
+    "Display name": "Prolonged-release granules",
+    "EDQM": "10207000"
+  },
+  {
+    "RMS": "100000073924",
+    "Display name": "Irrigation solution",
+    "EDQM": "12113000"
+  },
+  {
+    "RMS": "200000023008",
+    "Display name": "Film",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074001",
+    "Display name": "Ear/eye drops, solution",
+    "EDQM": "50018000"
+  },
+  {
+    "RMS": "100000074068",
+    "Display name": "Dispersion for injection",
+    "EDQM": "50077000"
+  },
+  {
+    "RMS": "100000174051",
+    "Display name": "Solution for solution for infusion",
+    "EDQM": "13061000"
+  },
+  {
+    "RMS": "100000073794",
+    "Display name": "Nasal drops, solution",
+    "EDQM": "10804000"
+  },
+  {
+    "RMS": "100000073797",
+    "Display name": "Nasal spray, emulsion",
+    "EDQM": "10810000"
+  },
+  {
+    "RMS": "100000073810",
+    "Display name": "Nasal wash",
+    "EDQM": "10811000"
+  },
+  {
+    "RMS": "100000174028",
+    "Display name": "Powder for solution for skin-prick test",
+    "EDQM": "13032000"
+  },
+  {
+    "RMS": "100000116159",
+    "Display name": "Intrauterine foam",
+    "EDQM": "50033300"
+  },
+  {
+    "RMS": "100000073691",
+    "Display name": "Oromucosal solution",
+    "EDQM": "10305000"
+  },
+  {
+    "RMS": "100000073374",
+    "Display name": "Modified-release granules",
+    "EDQM": "10208000"
+  },
+  {
+    "RMS": "100000073672",
+    "Display name": "Premix for medicated feeding stuff",
+    "EDQM": "10235000"
+  },
+  {
+    "RMS": "100000073710",
+    "Display name": "Periodontal gel",
+    "EDQM": "10410000"
+  },
+  {
+    "RMS": "100000073921",
+    "Display name": "Kit for radiopharmaceutical preparation",
+    "EDQM": "12107000"
+  },
+  {
+    "RMS": "100000116194",
+    "Display name": "Suspension for use in drinking water",
+    "EDQM": "50063500"
+  },
+  {
+    "RMS": "100000125711",
+    "Display name": "Ear/eye drops, suspension",
+    "EDQM": "50018500"
+  },
+  {
+    "RMS": "100000174029",
+    "Display name": "Solution for solution for injection",
+    "EDQM": "13033000"
+  },
+  {
+    "RMS": "100000073901",
+    "Display name": "Endotracheopulmonary instillation, solution",
+    "EDQM": "11601000"
+  },
+  {
+    "RMS": "100000174054",
+    "Display name": "Solution for bee-hive solution",
+    "EDQM": "13080000"
+  },
+  {
+    "RMS": "100000111513",
+    "Display name": "Age-appropriate oral liquid dosage form",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000002288",
+    "Display name": "Powder for bee-hive dispersion",
+    "EDQM": "13099000"
+  },
+  {
+    "RMS": "100000125750",
+    "Display name": "Powder for intravesical solution/solution for injection",
+    "EDQM": "50050500"
+  },
+  {
+    "RMS": "100000111493",
+    "Display name": "Age-appropriate oral solid dosage form",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073702",
+    "Display name": "Muco-adhesive buccal tablet",
+    "EDQM": "10319000"
+  },
+  {
+    "RMS": "100000074012",
+    "Display name": "Oral solution/concentrate for nebuliser solution",
+    "EDQM": "50038500"
+  },
+  {
+    "RMS": "100000073854",
+    "Display name": "Inhalation vapour, liquid",
+    "EDQM": "11117000"
+  },
+  {
+    "RMS": "100000073861",
+    "Display name": "Inhalation vapour, solution",
+    "EDQM": "11114000"
+  },
+  {
+    "RMS": "100000073904",
+    "Display name": "Intramammary solution",
+    "EDQM": "11801000"
+  },
+  {
+    "RMS": "100000073378",
+    "Display name": "Prolonged-release capsule, soft",
+    "EDQM": "10216000"
+  },
+  {
+    "RMS": "100000073802",
+    "Display name": "Ear spray, solution",
+    "EDQM": "10709000"
+  },
+  {
+    "RMS": "100000073681",
+    "Display name": "Effervescent tablet",
+    "EDQM": "10222000"
+  },
+  {
+    "RMS": "100000073713",
+    "Display name": "Ointment",
+    "EDQM": "10504000"
+  },
+  {
+    "RMS": "100000125706",
+    "Display name": "Oromucosal spray, solution",
+    "EDQM": "10308200"
+  },
+  {
+    "RMS": "100000174026",
+    "Display name": "Gas for dispersion for injection/infusion",
+    "EDQM": "13050000"
+  },
+  {
+    "RMS": "100000073862",
+    "Display name": "Inhalation vapour, ointment",
+    "EDQM": "11116000"
+  },
+  {
+    "RMS": "100000073883",
+    "Display name": "Implantation tablet",
+    "EDQM": "11302000"
+  },
+  {
+    "RMS": "100000073369",
+    "Display name": "Soluble tablet",
+    "EDQM": "10120000"
+  },
+  {
+    "RMS": "100000073715",
+    "Display name": "Shampoo",
+    "EDQM": "10508000"
+  },
+  {
+    "RMS": "100000143499",
+    "Display name": "Sublingual spray, solution",
+    "EDQM": "10309200"
+  },
+  {
+    "RMS": "200000016403",
+    "Display name": "Eye drops, lyophilisate for suspension",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000174020",
+    "Display name": "Powder for emulsion for injection",
+    "EDQM": "13040000"
+  },
+  {
+    "RMS": "100000073778",
+    "Display name": "Ear cream",
+    "EDQM": "10701000"
+  },
+  {
+    "RMS": "100000073945",
+    "Display name": "Medicinal gas, cryogenic",
+    "EDQM": "12302000"
+  },
+  {
+    "RMS": "100000073908",
+    "Display name": "Intrauterine emulsion",
+    "EDQM": "11904000"
+  },
+  {
+    "RMS": "100000073643",
+    "Display name": "Oral drops, suspension",
+    "EDQM": "10102000"
+  },
+  {
+    "RMS": "100000073670",
+    "Display name": "Pillules",
+    "EDQM": "10231000"
+  },
+  {
+    "RMS": "100000073692",
+    "Display name": "Oromucosal drops",
+    "EDQM": "10307000"
+  },
+  {
+    "RMS": "100000073867",
+    "Display name": "Powder for suspension for injection",
+    "EDQM": "11206000"
+  },
+  {
+    "RMS": "100000111494",
+    "Display name": "Age-appropriate dosage form for parenteral use",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000002245",
+    "Display name": "Transdermal ointment",
+    "EDQM": "13102000"
+  },
+  {
+    "RMS": "100000173966",
+    "Display name": "Powder for intraocular instillation solution",
+    "EDQM": "13029000"
+  },
+  {
+    "RMS": "100000073805",
+    "Display name": "Ear stick",
+    "EDQM": "10715000"
+  },
+  {
+    "RMS": "100000073793",
+    "Display name": "Nasal gel",
+    "EDQM": "10802000"
+  },
+  {
+    "RMS": "100000073809",
+    "Display name": "Nasal spray, suspension",
+    "EDQM": "10809000"
+  },
+  {
+    "RMS": "100000073846",
+    "Display name": "Nebuliser suspension",
+    "EDQM": "11102000"
+  },
+  {
+    "RMS": "100000074034",
+    "Display name": "Powder for oral/rectal suspension",
+    "EDQM": "50052000"
+  },
+  {
+    "RMS": "100000174033",
+    "Display name": "Granules for suspension for injection",
+    "EDQM": "13048000"
+  },
+  {
+    "RMS": "100000073766",
+    "Display name": "Spot-on suspension",
+    "EDQM": "10541000"
+  },
+  {
+    "RMS": "100000073895",
+    "Display name": "Intrauterine delivery system",
+    "EDQM": "11901000"
+  },
+  {
+    "RMS": "100000073881",
+    "Display name": "Solvent for parenteral use",
+    "EDQM": "11216000"
+  },
+  {
+    "RMS": "100000143500",
+    "Display name": "Sublingual spray, suspension",
+    "EDQM": "10309300"
+  },
+  {
+    "RMS": "100000169806",
+    "Display name": "Prolonged-release solution for injection",
+    "EDQM": "13076000"
+  },
+  {
+    "RMS": "200000002381",
+    "Display name": "Sublingual powder",
+    "EDQM": "13105000"
+  },
+  {
+    "RMS": "100000174019",
+    "Display name": "Suspension for suspension for injection",
+    "EDQM": "13039000"
+  },
+  {
+    "RMS": "100000174022",
+    "Display name": "Epilesional solution",
+    "EDQM": "13042000"
+  },
+  {
+    "RMS": "100000073761",
+    "Display name": "Concentrate for dip solution",
+    "EDQM": "10532000"
+  },
+  {
+    "RMS": "100000073789",
+    "Display name": "Ear spray, suspension",
+    "EDQM": "10710000"
+  },
+  {
+    "RMS": "100000116135",
+    "Display name": "Transdermal spray, solution",
+    "EDQM": "10546500"
+  },
+  {
+    "RMS": "100000116134",
+    "Display name": "Transdermal gel",
+    "EDQM": "10546250"
+  },
+  {
+    "RMS": "100000174021",
+    "Display name": "Endosinusial solution",
+    "EDQM": "13041000"
+  },
+  {
+    "RMS": "100000145128",
+    "Display name": "Ear/nasal drops, suspension",
+    "EDQM": "50020200"
+  },
+  {
+    "RMS": "100000074005",
+    "Display name": "Gastro-resistant granules for oral suspension",
+    "EDQM": "50026000"
+  },
+  {
+    "RMS": "100000073758",
+    "Display name": "Eye gel",
+    "EDQM": "10602000"
+  },
+  {
+    "RMS": "100000073877",
+    "Display name": "Solution for haemodiafiltration",
+    "EDQM": "11403000"
+  },
+  {
+    "RMS": "100000073646",
+    "Display name": "Oral solution",
+    "EDQM": "10105000"
+  },
+  {
+    "RMS": "200000018781",
+    "Display name": "Pharmaceutical dose form not applicable",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000174032",
+    "Display name": "Solution for suspension for injection",
+    "EDQM": "13047000"
+  },
+  {
+    "RMS": "100000073856",
+    "Display name": "Emulsion for injection",
+    "EDQM": "11203000"
+  },
+  {
+    "RMS": "100000074009",
+    "Display name": "Inhalation vapour, impregnated pad",
+    "EDQM": "50033000"
+  },
+  {
+    "RMS": "100000074037",
+    "Display name": "Solution for haemodialysis/haemofiltration",
+    "EDQM": "50057000"
+  },
+  {
+    "RMS": "100000174009",
+    "Display name": "Gel for gel",
+    "EDQM": "13014000"
+  },
+  {
+    "RMS": "100000073929",
+    "Display name": "Medicinal gas, compressed",
+    "EDQM": "12301000"
+  },
+  {
+    "RMS": "100000116182",
+    "Display name": "Powder for concentrate for solution for haemodialysis",
+    "EDQM": "50049200"
+  },
+  {
+    "RMS": "100000173962",
+    "Display name": "Powder for dental gel",
+    "EDQM": "13022000"
+  },
+  {
+    "RMS": "100000116184",
+    "Display name": "Powder for dental solution",
+    "EDQM": "50049270"
+  },
+  {
+    "RMS": "100000073739",
+    "Display name": "Ear tag",
+    "EDQM": "10528000"
+  },
+  {
+    "RMS": "100000073795",
+    "Display name": "Nasal drops, emulsion",
+    "EDQM": "10806000"
+  },
+  {
+    "RMS": "100000073806",
+    "Display name": "Nasal ointment",
+    "EDQM": "10803000"
+  },
+  {
+    "RMS": "100000174007",
+    "Display name": "Gas for dispersion for infusion",
+    "EDQM": "13012000"
+  },
+  {
+    "RMS": "100000073841",
+    "Display name": "Rectal emulsion",
+    "EDQM": "11007000"
+  },
+  {
+    "RMS": "100000073829",
+    "Display name": "Rectal solution",
+    "EDQM": "11005000"
+  },
+  {
+    "RMS": "100000173963",
+    "Display name": "Powder for dispersion for injection",
+    "EDQM": "13023000"
+  },
+  {
+    "RMS": "100000073995",
+    "Display name": "Ear/eye ointment",
+    "EDQM": "50019000"
+  },
+  {
+    "RMS": "100000174003",
+    "Display name": "Emulsion for emulsion for injection",
+    "EDQM": "13008000"
+  },
+  {
+    "RMS": "100000073837",
+    "Display name": "Nebuliser emulsion",
+    "EDQM": "11105000"
+  },
+  {
+    "RMS": "200000003971",
+    "Display name": "Intrauterine gel",
+    "EDQM": "13113000"
+  },
+  {
+    "RMS": "100000073734",
+    "Display name": "Solution for iontophoresis",
+    "EDQM": "10518000"
+  },
+  {
+    "RMS": "100000073775",
+    "Display name": "Eye drops, solvent for reconstitution",
+    "EDQM": "10608000"
+  },
+  {
+    "RMS": "100000073834",
+    "Display name": "Tablet for rectal suspension",
+    "EDQM": "11012000"
+  },
+  {
+    "RMS": "100000073845",
+    "Display name": "Rectal tampon",
+    "EDQM": "11015000"
+  },
+  {
+    "RMS": "100000073847",
+    "Display name": "Powder for nebuliser solution",
+    "EDQM": "11104000"
+  },
+  {
+    "RMS": "200000023323",
+    "Display name": "Not assigned",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000111495",
+    "Display name": "Age-appropriate dosage form for rectal use",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000174002",
+    "Display name": "Effervescent granules for oral suspension",
+    "EDQM": "13007000"
+  },
+  {
+    "RMS": "100000073694",
+    "Display name": "Mouthwash, tablet for solution",
+    "EDQM": "10311000"
+  },
+  {
+    "RMS": "100000073749",
+    "Display name": "Powder for dip solution",
+    "EDQM": "10534500"
+  },
+  {
+    "RMS": "100000073760",
+    "Display name": "Eye drops, suspension",
+    "EDQM": "10605000"
+  },
+  {
+    "RMS": "100000073827",
+    "Display name": "Rectal gel",
+    "EDQM": "11002000"
+  },
+  {
+    "RMS": "100000073833",
+    "Display name": "Tablet for rectal solution",
+    "EDQM": "11011000"
+  },
+  {
+    "RMS": "100000073876",
+    "Display name": "Solution for peritoneal dialysis",
+    "EDQM": "11401000"
+  },
+  {
+    "RMS": "100000073919",
+    "Display name": "Solution for organ preservation",
+    "EDQM": "12112000"
+  },
+  {
+    "RMS": "100000173964",
+    "Display name": "Powder for endocervical gel",
+    "EDQM": "13024000"
+  },
+  {
+    "RMS": "100000116186",
+    "Display name": "Powder for solution for injection/infusion",
+    "EDQM": "50053500"
+  },
+  {
+    "RMS": "100000162764",
+    "Display name": "Powder for solution for fish treatment",
+    "EDQM": "13056000"
+  },
+  {
+    "RMS": "100000174055",
+    "Display name": "Solution for intraocular irrigation",
+    "EDQM": "50073500"
+  },
+  {
+    "RMS": "100000073788",
+    "Display name": "Ear powder",
+    "EDQM": "10708000"
+  },
+  {
+    "RMS": "100000073858",
+    "Display name": "Emulsion for infusion",
+    "EDQM": "11211000"
+  },
+  {
+    "RMS": "100000111533",
+    "Display name": "Dispersion for infusion",
+    "EDQM": "50017500"
+  },
+  {
+    "RMS": "100000073911",
+    "Display name": "Nebulisation solution",
+    "EDQM": "12004000"
+  },
+  {
+    "RMS": "100000116163",
+    "Display name": "Nasal/oromucosal solution",
+    "EDQM": "50036500"
+  },
+  {
+    "RMS": "100000073754",
+    "Display name": "Teat dip suspension",
+    "EDQM": "10544000"
+  },
+  {
+    "RMS": "100000073770",
+    "Display name": "Solution for skin-scratch test",
+    "EDQM": "10549000"
+  },
+  {
+    "RMS": "100000073942",
+    "Display name": "Living tissue equivalent",
+    "EDQM": "12118000"
+  },
+  {
+    "RMS": "100000157838",
+    "Display name": "Sealant powder",
+    "EDQM": "12115200"
+  },
+  {
+    "RMS": "100000074003",
+    "Display name": "Endosinusial wash, suspension",
+    "EDQM": "50022000"
+  },
+  {
+    "RMS": "100000073668",
+    "Display name": "Modified-release tablet",
+    "EDQM": "10227000"
+  },
+  {
+    "RMS": "100000074008",
+    "Display name": "Inhalation vapour, effervescent tablet",
+    "EDQM": "50031000"
+  },
+  {
+    "RMS": "100000073772",
+    "Display name": "Eye ointment",
+    "EDQM": "10603000"
+  },
+  {
+    "RMS": "100000073819",
+    "Display name": "Rectal cream",
+    "EDQM": "11001000"
+  },
+  {
+    "RMS": "100000073852",
+    "Display name": "Inhalation vapour, capsule",
+    "EDQM": "11113000"
+  },
+  {
+    "RMS": "100000073873",
+    "Display name": "Lyophilisate for solution for injection",
+    "EDQM": "11217000"
+  },
+  {
+    "RMS": "100000073927",
+    "Display name": "Medicated sponge",
+    "EDQM": "12119000"
+  },
+  {
+    "RMS": "100000174027",
+    "Display name": "Powder for sealant",
+    "EDQM": "13031000"
+  },
+  {
+    "RMS": "100000173965",
+    "Display name": "Powder for endosinusial solution",
+    "EDQM": "13025000"
+  },
+  {
+    "RMS": "100000125735",
+    "Display name": "Transdermal solution",
+    "EDQM": "10546400"
+  },
+  {
+    "RMS": "100000073786",
+    "Display name": "Ear drops, solution",
+    "EDQM": "10704000"
+  },
+  {
+    "RMS": "100000073787",
+    "Display name": "Ear drops, emulsion",
+    "EDQM": "10706000"
+  },
+  {
+    "RMS": "100000073796",
+    "Display name": "Nasal spray, solution",
+    "EDQM": "10808000"
+  },
+  {
+    "RMS": "100000073808",
+    "Display name": "Nasal powder",
+    "EDQM": "10807000"
+  },
+  {
+    "RMS": "100000174024",
+    "Display name": "Intraocular instillation solution",
+    "EDQM": "13044000"
+  },
+  {
+    "RMS": "100000073751",
+    "Display name": "Pour-on suspension",
+    "EDQM": "10538000"
+  },
+  {
+    "RMS": "100000075589",
+    "Display name": "Solution for sealant",
+    "EDQM": "50061500"
+  },
+  {
+    "RMS": "100000143523",
+    "Display name": "Powder for dispersion for infusion",
+    "EDQM": "11211500"
+  },
+  {
+    "RMS": "100000073996",
+    "Display name": "Emulsion for injection/infusion",
+    "EDQM": "50021000"
+  },
+  {
+    "RMS": "100000073779",
+    "Display name": "Ear ointment",
+    "EDQM": "10703000"
+  },
+  {
+    "RMS": "100000116142",
+    "Display name": "Intraperitoneal solution",
+    "EDQM": "12111500"
+  },
+  {
+    "RMS": "100000073777",
+    "Display name": "Ophthalmic insert",
+    "EDQM": "10612000"
+  },
+  {
+    "RMS": "100000073897",
+    "Display name": "Intrauterine tablet",
+    "EDQM": "11905000"
+  },
+  {
+    "RMS": "100000073918",
+    "Display name": "Gastroenteral suspension",
+    "EDQM": "12110000"
+  },
+  {
+    "RMS": "100000073368",
+    "Display name": "Powder for syrup",
+    "EDQM": "10118000"
+  },
+  {
+    "RMS": "100000073645",
+    "Display name": "Oral liquid",
+    "EDQM": "10104000"
+  },
+  {
+    "RMS": "100000073675",
+    "Display name": "Oromucosal suspension",
+    "EDQM": "10306000"
+  },
+  {
+    "RMS": "100000125778",
+    "Display name": "Teat dip/spray solution",
+    "EDQM": "50068000"
+  },
+  {
+    "RMS": "100000174049",
+    "Display name": "Solution for bee-hive strip",
+    "EDQM": "13054000"
+  },
+  {
+    "RMS": "100000074020",
+    "Display name": "Powder for intravesical suspension",
+    "EDQM": "50051000"
+  },
+  {
+    "RMS": "100000125707",
+    "Display name": "Oromucosal spray, suspension",
+    "EDQM": "10308300"
+  },
+  {
+    "RMS": "100000073371",
+    "Display name": "Instant herbal tea",
+    "EDQM": "10202000"
+  },
+  {
+    "RMS": "100000073703",
+    "Display name": "Lozenge",
+    "EDQM": "10321000"
+  },
+  {
+    "RMS": "100000073379",
+    "Display name": "Modified-release capsule, soft",
+    "EDQM": "10218000"
+  },
+  {
+    "RMS": "100000156088",
+    "Display name": "Sealant matrix",
+    "EDQM": "12115100"
+  },
+  {
+    "RMS": "100000073798",
+    "Display name": "Nasal stick",
+    "EDQM": "10812000"
+  },
+  {
+    "RMS": "100000074038",
+    "Display name": "Solution for injection/infusion",
+    "EDQM": "50060000"
+  },
+  {
+    "RMS": "100000073757",
+    "Display name": "Plaster for provocation test",
+    "EDQM": "10550000"
+  },
+  {
+    "RMS": "100000073750",
+    "Display name": "Powder for suspension for fish treatment",
+    "EDQM": "10536000"
+  },
+  {
+    "RMS": "100000073768",
+    "Display name": "Teat dip emulsion",
+    "EDQM": "10545000"
+  },
+  {
+    "RMS": "100000073907",
+    "Display name": "Intrauterine solution",
+    "EDQM": "11902000"
+  },
+  {
+    "RMS": "100000073944",
+    "Display name": "Solution for provocation test",
+    "EDQM": "12131000"
+  },
+  {
+    "RMS": "100000073803",
+    "Display name": "Ear spray, emulsion",
+    "EDQM": "10711000"
+  },
+  {
+    "RMS": "200000023019",
+    "Display name": "Lipstick",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073890",
+    "Display name": "Endotracheopulmonary instillation, powder for solution",
+    "EDQM": "11602000"
+  },
+  {
+    "RMS": "100000074054",
+    "Display name": "Powder for solution for intraocular irrigation",
+    "EDQM": "50073000"
+  },
+  {
+    "RMS": "100000073752",
+    "Display name": "Spot-on solution",
+    "EDQM": "10540000"
+  },
+  {
+    "RMS": "100000073832",
+    "Display name": "Powder for rectal suspension",
+    "EDQM": "11010000"
+  },
+  {
+    "RMS": "100000073679",
+    "Display name": "Oromucosal paste",
+    "EDQM": "10314000"
+  },
+  {
+    "RMS": "100000073888",
+    "Display name": "Powder for bladder irrigation",
+    "EDQM": "11503000"
+  },
+  {
+    "RMS": "100000167020",
+    "Display name": "Solution for use in drinking water/milk",
+    "EDQM": "13055000"
+  },
+  {
+    "RMS": "200000002289",
+    "Display name": "Solution for bee-hive dispersion",
+    "EDQM": "13100000"
+  },
+  {
+    "RMS": "100000074025",
+    "Display name": "Oral/rectal suspension",
+    "EDQM": "50038000"
+  },
+  {
+    "RMS": "100000073776",
+    "Display name": "Eye lotion",
+    "EDQM": "10610000"
+  },
+  {
+    "RMS": "100000073914",
+    "Display name": "Wound stick",
+    "EDQM": "12104000"
+  },
+  {
+    "RMS": "100000073906",
+    "Display name": "Teat stick",
+    "EDQM": "11805000"
+  },
+  {
+    "RMS": "100000073925",
+    "Display name": "Sealant",
+    "EDQM": "12115000"
+  },
+  {
+    "RMS": "100000073653",
+    "Display name": "Granules for syrup",
+    "EDQM": "10119000"
+  },
+  {
+    "RMS": "100000073678",
+    "Display name": "Gingival solution",
+    "EDQM": "10312000"
+  },
+  {
+    "RMS": "100000073680",
+    "Display name": "Gingival gel",
+    "EDQM": "10315000"
+  },
+  {
+    "RMS": "100000073701",
+    "Display name": "Oromucosal capsule",
+    "EDQM": "10317000"
+  },
+  {
+    "RMS": "100000116183",
+    "Display name": "Powder for concentrate for solution for injection/infusion",
+    "EDQM": "50049250"
+  },
+  {
+    "RMS": "100000143498",
+    "Display name": "Sublingual spray, emulsion",
+    "EDQM": "10309100"
+  },
+  {
+    "RMS": "100000073807",
+    "Display name": "Nasal drops, suspension",
+    "EDQM": "10805000"
+  },
+  {
+    "RMS": "100000075573",
+    "Display name": "Orodispersible film",
+    "EDQM": "10236100"
+  },
+  {
+    "RMS": "100000136324",
+    "Display name": "Lyophilisate for use in drinking water",
+    "EDQM": "50034700"
+  },
+  {
+    "RMS": "100000143547",
+    "Display name": "Impregnated plug",
+    "EDQM": "12117500"
+  },
+  {
+    "RMS": "100000073736",
+    "Display name": "Poultice",
+    "EDQM": "10522000"
+  },
+  {
+    "RMS": "100000073784",
+    "Display name": "Ophthalmic strip",
+    "EDQM": "10613000"
+  },
+  {
+    "RMS": "100000174047",
+    "Display name": "Solution for injection/skin-prick test",
+    "EDQM": "13051000"
+  },
+  {
+    "RMS": "100000143503",
+    "Display name": "Powder for dental cement",
+    "EDQM": "10413000"
+  },
+  {
+    "RMS": "100000116192",
+    "Display name": "Solution for use in drinking water",
+    "EDQM": "50061300"
+  },
+  {
+    "RMS": "100000116185",
+    "Display name": "Powder for epilesional solution",
+    "EDQM": "50049300"
+  },
+  {
+    "RMS": "100000173959",
+    "Display name": "Nasal drops, lyophilisate for suspension",
+    "EDQM": "13019000"
+  },
+  {
+    "RMS": "100000073835",
+    "Display name": "Nebuliser solution",
+    "EDQM": "11101000"
+  },
+  {
+    "RMS": "100000073677",
+    "Display name": "Mouthwash",
+    "EDQM": "10310000"
+  },
+  {
+    "RMS": "100000074024",
+    "Display name": "Modified-release granules for oral suspension",
+    "EDQM": "50036000"
+  },
+  {
+    "RMS": "100000073745",
+    "Display name": "Medicated pendant",
+    "EDQM": "10527000"
+  },
+  {
+    "RMS": "100000073765",
+    "Display name": "Pour-on emulsion",
+    "EDQM": "10539000"
+  },
+  {
+    "RMS": "100000073644",
+    "Display name": "Oral drops, emulsion",
+    "EDQM": "10103000"
+  },
+  {
+    "RMS": "100000073648",
+    "Display name": "Oral paste",
+    "EDQM": "10109000"
+  },
+  {
+    "RMS": "100000143525",
+    "Display name": "Powder for cutaneous solution",
+    "EDQM": "10514500"
+  },
+  {
+    "RMS": "100000074070",
+    "Display name": "Inhalation solution",
+    "EDQM": "50081000"
+  },
+  {
+    "RMS": "100000171190",
+    "Display name": "Oral spray, suspension",
+    "EDQM": "13084000"
+  },
+  {
+    "RMS": "100000073863",
+    "Display name": "Solution for injection",
+    "EDQM": "11201000"
+  },
+  {
+    "RMS": "100000073889",
+    "Display name": "Urethral stick",
+    "EDQM": "11505000"
+  },
+  {
+    "RMS": "100000073898",
+    "Display name": "Intrauterine capsule",
+    "EDQM": "11906000"
+  },
+  {
+    "RMS": "100000073688",
+    "Display name": "Medicated pellets",
+    "EDQM": "10236000"
+  },
+  {
+    "RMS": "100000073930",
+    "Display name": "Medicinal gas, liquefied",
+    "EDQM": "12303000"
+  },
+  {
+    "RMS": "100000174048",
+    "Display name": "Powder for solution for injection/skin-prick test",
+    "EDQM": "13052000"
+  },
+  {
+    "RMS": "100000174016",
+    "Display name": "Suspension for emulsion for injection",
+    "EDQM": "13036000"
+  },
+  {
+    "RMS": "100000073790",
+    "Display name": "Ear wash, solution",
+    "EDQM": "10712000"
+  },
+  {
+    "RMS": "100000073656",
+    "Display name": "Effervescent powder",
+    "EDQM": "10203000"
+  },
+  {
+    "RMS": "100000143527",
+    "Display name": "Solution for cardioplegia",
+    "EDQM": "11209500"
+  },
+  {
+    "RMS": "100000073812",
+    "Display name": "Vaginal ointment",
+    "EDQM": "10903000"
+  },
+  {
+    "RMS": "100000073667",
+    "Display name": "Gastro-resistant tablet",
+    "EDQM": "10225000"
+  },
+  {
+    "RMS": "100000073695",
+    "Display name": "Oromucosal gel",
+    "EDQM": "10313000"
+  },
+  {
+    "RMS": "100000073824",
+    "Display name": "Vaginal tablet",
+    "EDQM": "10912000"
+  },
+  {
+    "RMS": "100000073855",
+    "Display name": "Inhalation gas",
+    "EDQM": "11118000"
+  },
+  {
+    "RMS": "100000074041",
+    "Display name": "Powder for mouth wash",
+    "EDQM": "50051100"
+  },
+  {
+    "RMS": "200000022987",
+    "Display name": "Bead",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023012",
+    "Display name": "Granules for suspension",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000017706",
+    "Display name": "Sterile concentrate",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016473",
+    "Display name": "Nasal drops",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116133",
+    "Display name": "Scrub",
+    "EDQM": "10539500"
+  },
+  {
+    "RMS": "100000116154",
+    "Display name": "Gastro-resistant prolonged-release tablet",
+    "EDQM": "50026250"
+  },
+  {
+    "RMS": "100000174050",
+    "Display name": "Caplet",
+    "EDQM": "13058000"
+  },
+  {
+    "RMS": "200000023317",
+    "Display name": "Tablet for suspension",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023314",
+    "Display name": "Prolonged-release suspension",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023324",
+    "Display name": "Wafer",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016471",
+    "Display name": "Lotion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016494",
+    "Display name": "Solution for injection in pre-filled pen",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000125751",
+    "Display name": "Powder for nebuliser solution/solution for injection/infusion",
+    "EDQM": "50051500"
+  },
+  {
+    "RMS": "200000004612",
+    "Display name": "Lyophilisate for suspension for spray",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116193",
+    "Display name": "Solvent for nasal use",
+    "EDQM": "50061600"
+  },
+  {
+    "RMS": "200000017705",
+    "Display name": "Solution for external use",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074052",
+    "Display name": "Tablet for oral suspension",
+    "EDQM": "50066000"
+  },
+  {
+    "RMS": "200000023316",
+    "Display name": "Tablet for solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023311",
+    "Display name": "Stick",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073978",
+    "Display name": "Concentrate for peritoneal dialysis solution",
+    "EDQM": "50012000"
+  },
+  {
+    "RMS": "100000111497",
+    "Display name": "Cell suspension for infusion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023321",
+    "Display name": "Tincture",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000003167",
+    "Display name": "Pressurised inhalation, gas",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000022992",
+    "Display name": "Capsule, gelatin coated",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016482",
+    "Display name": "Powder and solvent for sealant",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000017703",
+    "Display name": "Powder for suspension",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016495",
+    "Display name": "Eye drops, solution in single-dose container",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023302",
+    "Display name": "Patch",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074065",
+    "Display name": "Oral suspension for use in drinking water",
+    "EDQM": "50070000"
+  },
+  {
+    "RMS": "100000116150",
+    "Display name": "Cutaneous/oromucosal spray",
+    "EDQM": "50015400"
+  },
+  {
+    "RMS": "100000136559",
+    "Display name": "Lyophilisate for suspension for spray administration",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000017727",
+    "Display name": "Oil",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000125709",
+    "Display name": "Frozen solution for sealant",
+    "EDQM": "12109900"
+  },
+  {
+    "RMS": "200000016459",
+    "Display name": "Enema",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073992",
+    "Display name": "Concentrate for suspension for infusion",
+    "EDQM": "50014000"
+  },
+  {
+    "RMS": "100000073998",
+    "Display name": "Gastro-resistant coated tablet",
+    "EDQM": "50025000"
+  },
+  {
+    "RMS": "200000022989",
+    "Display name": "Coated capsule",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016484",
+    "Display name": "Powder and solvent for solution for infusion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023322",
+    "Display name": "Troche",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000075577",
+    "Display name": "Pouch",
+    "EDQM": "30047500"
+  },
+  {
+    "RMS": "100000073738",
+    "Display name": "Collar",
+    "EDQM": "10526000"
+  },
+  {
+    "RMS": "100000116188",
+    "Display name": "Solution for injection/concentrate for solution for infusion",
+    "EDQM": "50059000"
+  },
+  {
+    "RMS": "100000125704",
+    "Display name": "Pill",
+    "EDQM": "10230500"
+  },
+  {
+    "RMS": "200000016500",
+    "Display name": "Vaginal capsule",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023009",
+    "Display name": "Gas",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073737",
+    "Display name": "Cutaneous sponge",
+    "EDQM": "10524000"
+  },
+  {
+    "RMS": "100000074010",
+    "Display name": "Modified-release film-coated tablet",
+    "EDQM": "50035000"
+  },
+  {
+    "RMS": "200000022993",
+    "Display name": "Capsule, liquid filled",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074035",
+    "Display name": "Powder for solution for intravesical use",
+    "EDQM": "50054000"
+  },
+  {
+    "RMS": "100000075213",
+    "Display name": "Intravenous infusion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000022998",
+    "Display name": "Culture",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000169890",
+    "Display name": "Solution and powder for solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000075234",
+    "Display name": "Kit for implant",
+    "EDQM": "11303750"
+  },
+  {
+    "RMS": "100000125760",
+    "Display name": "Powder for solution/suspension for injection",
+    "EDQM": "50055150"
+  },
+  {
+    "RMS": "200000023011",
+    "Display name": "Granules for solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016498",
+    "Display name": "Spray",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074043",
+    "Display name": "Powder for solution for nasal spray",
+    "EDQM": "50055000"
+  },
+  {
+    "RMS": "200000023304",
+    "Display name": "Prolonged-release pellets",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016464",
+    "Display name": "Implant in pre-filled syringe",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016499",
+    "Display name": "Suspension for injection in pre-filled syringe",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016486",
+    "Display name": "Powder and solvent for solution for injection/infusion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074006",
+    "Display name": "Granules for oral and rectal suspension",
+    "EDQM": "50028000"
+  },
+  {
+    "RMS": "200000016465",
+    "Display name": "Infusion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016488",
+    "Display name": "Powder for infusion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023306",
+    "Display name": "Powder",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016455",
+    "Display name": "Ear drops",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023320",
+    "Display name": "Tape",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023309",
+    "Display name": "Soap",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073676",
+    "Display name": "Oromucosal spray",
+    "EDQM": "10308000"
+  },
+  {
+    "RMS": "200000016466",
+    "Display name": "Inhalation vapour",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116143",
+    "Display name": "Solution for perfusion of organs",
+    "EDQM": "12115500"
+  },
+  {
+    "RMS": "200000016478",
+    "Display name": "Oral powder in sachet",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016419",
+    "Display name": "Suspension",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073693",
+    "Display name": "Sublingual spray",
+    "EDQM": "10309000"
+  },
+  {
+    "RMS": "100000116152",
+    "Display name": "Effervescent buccal tablet",
+    "EDQM": "50020500"
+  },
+  {
+    "RMS": "200000022982",
+    "Display name": "Aerosol, foam",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016487",
+    "Display name": "Powder and solvent for suspension for injection",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074040",
+    "Display name": "Solution for intraperitoneal use",
+    "EDQM": "50061000"
+  },
+  {
+    "RMS": "200000003974",
+    "Display name": "Gastro-resistant prolonged-release granules",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074023",
+    "Display name": "Liquefied gas for dental use",
+    "EDQM": "50034000"
+  },
+  {
+    "RMS": "200000005544",
+    "Display name": "Powder and solution for suspension for injection",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116136",
+    "Display name": "Intravaginal ring",
+    "EDQM": "10900500"
+  },
+  {
+    "RMS": "200000023016",
+    "Display name": "Insert",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000022999",
+    "Display name": "Diaphragm",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016490",
+    "Display name": "Powder for oral solution in sachet",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000022997",
+    "Display name": "Crystal",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074014",
+    "Display name": "Oromucosal/laryngopharyngeal solution/spray",
+    "EDQM": "50040000"
+  },
+  {
+    "RMS": "200000023310",
+    "Display name": "Gel-forming solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000143545",
+    "Display name": "[R] Kit for implant",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000022996",
+    "Display name": "Concentrate",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016472",
+    "Display name": "Modified-release capsule",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023013",
+    "Display name": "Gum",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023307",
+    "Display name": "Ring",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016462",
+    "Display name": "Gastro-resistant capsule",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000017701",
+    "Display name": "Endotracheopulmonary instillation",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016496",
+    "Display name": "Solution for injection in pre-filled syringe",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116149",
+    "Display name": "Cutaneous/oromucosal/oral solution",
+    "EDQM": "50015300"
+  },
+  {
+    "RMS": "200000016489",
+    "Display name": "Powder for injection",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000125734",
+    "Display name": "Scalp solution",
+    "EDQM": "10539250"
+  },
+  {
+    "RMS": "200000023017",
+    "Display name": "Prolonged-release insert",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116140",
+    "Display name": "Absorbable coated sponge",
+    "EDQM": "12100500"
+  },
+  {
+    "RMS": "200000017700",
+    "Display name": "Ear spray",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074042",
+    "Display name": "Powder for solution for injection or infusion",
+    "EDQM": "50053000"
+  },
+  {
+    "RMS": "100000116187",
+    "Display name": "Prolonged-release film-coated tablet",
+    "EDQM": "50055500"
+  },
+  {
+    "RMS": "200000023003",
+    "Display name": "Douche",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016476",
+    "Display name": "Oral drops",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000017120",
+    "Display name": "Granules in double tube container",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023004",
+    "Display name": "Drug delivery system",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000017702",
+    "Display name": "Foam",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023298",
+    "Display name": "Prolonged-release liquid",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016420",
+    "Display name": "Solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023319",
+    "Display name": "Tampon",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073887",
+    "Display name": "Solution for intravesical use",
+    "EDQM": "11501000"
+  },
+  {
+    "RMS": "100000143553",
+    "Display name": "Solution for injection/infusion/rectal use",
+    "EDQM": "50060700"
+  },
+  {
+    "RMS": "100000074049",
+    "Display name": "Suspension for infusion",
+    "EDQM": "50063000"
+  },
+  {
+    "RMS": "200000017726",
+    "Display name": "Powder for solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023018",
+    "Display name": "Kit",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016467",
+    "Display name": "Injection",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073979",
+    "Display name": "Concentrate for solution for intravesical use",
+    "EDQM": "50013000"
+  },
+  {
+    "RMS": "100000136562",
+    "Display name": "Powder for suspension for infusion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016485",
+    "Display name": "Powder and solvent for solution for injection",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074019",
+    "Display name": "Powder for concentrate for haemodialysis solution",
+    "EDQM": "50049000"
+  },
+  {
+    "RMS": "100000116158",
+    "Display name": "Inhalation impregnated pad",
+    "EDQM": "50029800"
+  },
+  {
+    "RMS": "200000016460",
+    "Display name": "Eye drops",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016491",
+    "Display name": "Pressurised inhalation",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116132",
+    "Display name": "Nail solution",
+    "EDQM": "10521500"
+  },
+  {
+    "RMS": "100000171720",
+    "Display name": "Lyophilisate for suspension for spray vaccination",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016452",
+    "Display name": "Capsule",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073367",
+    "Display name": "Lyophilisate for suspension",
+    "EDQM": "10116000"
+  },
+  {
+    "RMS": "200000023303",
+    "Display name": "Prolonged-release patch",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000022983",
+    "Display name": "Aerosol, spray",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023002",
+    "Display name": "Disc",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116157",
+    "Display name": "Hard capsule with gastro-resistant pellets",
+    "EDQM": "50029600"
+  },
+  {
+    "RMS": "100000074000",
+    "Display name": "Granules for oral drops, solution",
+    "EDQM": "50029000"
+  },
+  {
+    "RMS": "200000012509",
+    "Display name": "prolonged-release solution for instillation",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016475",
+    "Display name": "Ophthalmic solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073706",
+    "Display name": "Dental insert",
+    "EDQM": "10404000"
+  },
+  {
+    "RMS": "200000016468",
+    "Display name": "Liquid",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023014",
+    "Display name": "Injectable, liposomal",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023318",
+    "Display name": "Tag",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023313",
+    "Display name": "Prolonged-release suppository",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016461",
+    "Display name": "Eye drops, prolonged-release solution in single-dose container",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016454",
+    "Display name": "Drops",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074002",
+    "Display name": "Ear/eye/nose drops, solution",
+    "EDQM": "50020000"
+  },
+  {
+    "RMS": "200000016470",
+    "Display name": "Concentrate and solvent for solution for infusion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000010708",
+    "Display name": "Solvent for suspension for injection",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074011",
+    "Display name": "Nasal spray and oromucosal solution",
+    "EDQM": "50037000"
+  },
+  {
+    "RMS": "200000023007",
+    "Display name": "Extract",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000074045",
+    "Display name": "Solution for infusion and oral solution",
+    "EDQM": "50058000"
+  },
+  {
+    "RMS": "200000016481",
+    "Display name": "Powder and solvent for prolonged-release suspension for injection",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016479",
+    "Display name": "Oral suspension in sachet",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016480",
+    "Display name": "Powder and solvent for oral solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000143522",
+    "Display name": "Aerosol",
+    "EDQM": "11100500"
+  },
+  {
+    "RMS": "200000016463",
+    "Display name": "Granules in sachet",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000022994",
+    "Display name": "Cigarette",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023299",
+    "Display name": "Packing",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000075235",
+    "Display name": "Liposomal dispersion for infusion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116153",
+    "Display name": "Film coated gastro-resistant tablet",
+    "EDQM": "50023500"
+  },
+  {
+    "RMS": "200000016497",
+    "Display name": "Solution for injection/infusion in pre-filled syringe",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000017704",
+    "Display name": "Powder for suspension for solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000170589",
+    "Display name": "Coarse spray",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023006",
+    "Display name": "Emulsion",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023300",
+    "Display name": "Paste",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000022984",
+    "Display name": "Chewable bar",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000075236",
+    "Display name": "Over encapsulated tablet",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000136319",
+    "Display name": "Cutaneous/ear drops suspension",
+    "EDQM": "50015100"
+  },
+  {
+    "RMS": "200000023005",
+    "Display name": "Elixir",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116162",
+    "Display name": "Muco-adhesive buccal prolonged-release tablet",
+    "EDQM": "50036100"
+  },
+  {
+    "RMS": "200000003546",
+    "Display name": "Pellets",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000010709",
+    "Display name": "Solvent for solution for injection",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016453",
+    "Display name": "Cutaneous spray",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023315",
+    "Display name": "Suture",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000002229",
+    "Display name": "Granules in capsule for opening",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023308",
+    "Display name": "Rinse",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023305",
+    "Display name": "Plaster",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000075233",
+    "Display name": "Iontophoretic transdermal system",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000022988",
+    "Display name": "Block",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016493",
+    "Display name": "Solution for injection in cartridge",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000023312",
+    "Display name": "Strip",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073993",
+    "Display name": "Cutaneous and nasal ointment",
+    "EDQM": "50015000"
+  },
+  {
+    "RMS": "200000022990",
+    "Display name": "Capsule, coated pellets",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000016492",
+    "Display name": "Prolonged-release capsule",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000116189",
+    "Display name": "Solution for injection for euthanasia",
+    "EDQM": "50059500"
+  },
+  {
+    "RMS": "200000016474",
+    "Display name": "Nasal spray",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000025250",
+    "Display name": "Concentrate for emulsion for injection",
+    "EDQM": "13152000"
+  },
+  {
+    "RMS": "200000027123",
+    "Display name": "Vaginal liquid",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000027169",
+    "Display name": "Eye drops, prolonged-release solution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "200000027124",
+    "Display name": "Liquid dilution",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073994",
+    "Display name": "Dental paste",
+    "EDQM": "50017000"
+  },
+  {
+    "RMS": "100000073977",
+    "Display name": "Concentrate for oral/rectal solution",
+    "EDQM": "50011000"
+  },
+  {
+    "RMS": "100000073991",
+    "Display name": "Concentrate for oral solution",
+    "EDQM": "50010000"
+  },
+  {
+    "RMS": "100000075579",
+    "Display name": "Cutaneous spray, emulsion",
+    "EDQM": "50015500"
+  },
+  {
+    "RMS": "100000075574",
+    "Display name": "Buccal film",
+    "EDQM": "10314011"
+  },
+  {
+    "RMS": "100000075586",
+    "Display name": "Powder for implantation suspension",
+    "EDQM": "50049500"
+  },
+  {
+    "RMS": "100000075578",
+    "Display name": "Concentrate for emulsion for infusion",
+    "EDQM": "50009500"
+  },
+  {
+    "RMS": "100000116146",
+    "Display name": "Concentrate for solution for peritoneal dialysis",
+    "EDQM": "50013250"
+  },
+  {
+    "RMS": "100000116147",
+    "Display name": "Concentrate for spray emulsion",
+    "EDQM": "50013500"
+  },
+  {
+    "RMS": "100000116148",
+    "Display name": "Cutaneous/nasal ointment",
+    "EDQM": "50015200"
+  },
+  {
+    "RMS": "100000116139",
+    "Display name": "Bee-hive gel",
+    "EDQM": "12001500"
+  },
+  {
+    "RMS": "100000116145",
+    "Display name": "Concentrate for intravesical solution",
+    "EDQM": "50009750"
+  },
+  {
+    "RMS": "100000116180",
+    "Display name": "Powder for concentrate for dispersion for infusion",
+    "EDQM": "50048750"
+  },
+  {
+    "RMS": "100000116181",
+    "Display name": "Powder for concentrate for intravesical suspension",
+    "EDQM": "50049100"
+  },
+  {
+    "RMS": "100000125737",
+    "Display name": "Cutaneous solution/concentrate for oromucosal solution",
+    "EDQM": "50015450"
+  },
+  {
+    "RMS": "100000143526",
+    "Display name": "Powder for solution for iontophoresis",
+    "EDQM": "10518500"
+  },
+  {
+    "RMS": "100000143548",
+    "Display name": "Lyophilisate for oculonasal suspension",
+    "EDQM": "12118500"
+  },
+  {
+    "RMS": "100000116165",
+    "Display name": "Nasal spray, powder for solution",
+    "EDQM": "50037100"
+  },
+  {
+    "RMS": "100000116167",
+    "Display name": "Nasal spray, solution/oromucosal solution",
+    "EDQM": "50037400"
+  },
+  {
+    "RMS": "100000162557",
+    "Display name": "Concentrate for solution for intraocular irrigation",
+    "EDQM": "10600500"
+  },
+  {
+    "RMS": "100000171197",
+    "Display name": "Concentrate for concentrate for oral spray, suspension",
+    "EDQM": "13085000"
+  },
+  {
+    "RMS": "100000173961",
+    "Display name": "Powder for gel",
+    "EDQM": "13021000"
+  },
+  {
+    "RMS": "100000173955",
+    "Display name": "Dispersible tablets for dose dispenser",
+    "EDQM": "10121500"
+  },
+  {
+    "RMS": "100000173999",
+    "Display name": "Concentrate for suspension for injection",
+    "EDQM": "13004000"
+  },
+  {
+    "RMS": "100000173997",
+    "Display name": "Concentrate for nebuliser solution",
+    "EDQM": "13002000"
+  },
+  {
+    "RMS": "100000174012",
+    "Display name": "Powder for gingival gel",
+    "EDQM": "13026000"
+  },
+  {
+    "RMS": "100000171350",
+    "Display name": "Oculonasal suspension",
+    "EDQM": "13087000"
+  },
+  {
+    "RMS": "100000173960",
+    "Display name": "Nasal drops, powder for solution",
+    "EDQM": "13020000"
+  },
+  {
+    "RMS": "100000174013",
+    "Display name": "Powder for implantation matrix",
+    "EDQM": "13027000"
+  },
+  {
+    "RMS": "100000174014",
+    "Display name": "Powder for implantation paste",
+    "EDQM": "13028000"
+  },
+  {
+    "RMS": "100000174015",
+    "Display name": "Solvent for...",
+    "EDQM": "13035000"
+  },
+  {
+    "RMS": "100000174017",
+    "Display name": "Suspension for oral suspension",
+    "EDQM": "13037000"
+  },
+  {
+    "RMS": "100000173998",
+    "Display name": "Concentrate for oromucosal solution",
+    "EDQM": "13003000"
+  },
+  {
+    "RMS": "100000174025",
+    "Display name": "Intravesical suspension",
+    "EDQM": "13045000"
+  },
+  {
+    "RMS": "100000174035",
+    "Display name": "Bee-hive solution",
+    "EDQM": "13078000"
+  },
+  {
+    "RMS": "100000174052",
+    "Display name": "Tablet for cutaneous solution",
+    "EDQM": "13066000"
+  },
+  {
+    "RMS": "200000003547",
+    "Display name": "Powder for vaginal solution",
+    "EDQM": "13111000"
+  },
+  {
+    "RMS": "200000004719",
+    "Display name": "Tablet with sensor",
+    "EDQM": "13118000"
+  },
+  {
+    "RMS": "200000010684",
+    "Display name": "Sublingual lyophilisate",
+    "EDQM": "13127000"
+  },
+  {
+    "RMS": "200000015705",
+    "Display name": "Concentrate for dispersion for injection",
+    "EDQM": "13139000"
+  },
+  {
+    "RMS": "200000016184",
+    "Display name": "Cutaneous/oromucosal solution",
+    "EDQM": "13140000"
+  },
+  {
+    "RMS": "100000073730",
+    "Display name": "Cutaneous spray, powder",
+    "EDQM": "10511000"
+  },
+  {
+    "RMS": "100000073731",
+    "Display name": "Cutaneous solution",
+    "EDQM": "10513000"
+  },
+  {
+    "RMS": "100000073732",
+    "Display name": "Cutaneous suspension",
+    "EDQM": "10515000"
+  },
+  {
+    "RMS": "100000073733",
+    "Display name": "Cutaneous powder",
+    "EDQM": "10517000"
+  },
+  {
+    "RMS": "100000073727",
+    "Display name": "Cutaneous paste",
+    "EDQM": "10505000"
+  },
+  {
+    "RMS": "100000073729",
+    "Display name": "Cutaneous spray, solution",
+    "EDQM": "10509000"
+  },
+  {
+    "RMS": "100000073747",
+    "Display name": "Dip emulsion",
+    "EDQM": "10531000"
+  },
+  {
+    "RMS": "100000073748",
+    "Display name": "Concentrate for dip suspension",
+    "EDQM": "10533000"
+  },
+  {
+    "RMS": "100000073740",
+    "Display name": "Dip suspension",
+    "EDQM": "10530000"
+  },
+  {
+    "RMS": "100000073746",
+    "Display name": "Dip solution",
+    "EDQM": "10529000"
+  },
+  {
+    "RMS": "100000073813",
+    "Display name": "Vaginal solution",
+    "EDQM": "10905000"
+  },
+  {
+    "RMS": "100000073826",
+    "Display name": "Vaginal sponge",
+    "EDQM": "10916000"
+  },
+  {
+    "RMS": "100000073842",
+    "Display name": "Concentrate for rectal solution",
+    "EDQM": "11008000"
+  },
+  {
+    "RMS": "100000073857",
+    "Display name": "Concentrate for solution for injection",
+    "EDQM": "11209000"
+  },
+  {
+    "RMS": "100000073864",
+    "Display name": "Suspension for injection",
+    "EDQM": "11202000"
+  },
+  {
+    "RMS": "100000073870",
+    "Display name": "Solution for infusion",
+    "EDQM": "11210000"
+  },
+  {
+    "RMS": "100000073910",
+    "Display name": "Bee smoke paper",
+    "EDQM": "12002000"
+  },
+  {
+    "RMS": "100000073912",
+    "Display name": "Anticoagulant and preservative solution for blood",
+    "EDQM": "12102000"
+  },
+  {
+    "RMS": "100000073900",
+    "Display name": "Denture lacquer",
+    "EDQM": "12101000"
+  },
+  {
+    "RMS": "100000073909",
+    "Display name": "Bee-hive strip",
+    "EDQM": "12001000"
+  },
+  {
+    "RMS": "100000073689",
+    "Display name": "Concentrate for gargle",
+    "EDQM": "10302000"
+  },
+  {
+    "RMS": "100000073376",
+    "Display name": "Gastro-resistant capsule, hard",
+    "EDQM": "10212000"
+  },
+  {
+    "RMS": "100000073377",
+    "Display name": "Chewable capsule, soft",
+    "EDQM": "10214000"
+  },
+  {
+    "RMS": "100000073375",
+    "Display name": "Capsule, hard",
+    "EDQM": "10210000"
+  },
+  {
+    "RMS": "100000073659",
+    "Display name": "Cachet",
+    "EDQM": "10209000"
+  },
+  {
+    "RMS": "100000073664",
+    "Display name": "Tablet",
+    "EDQM": "10219000"
+  },
+  {
+    "RMS": "100000073665",
+    "Display name": "Film-coated tablet",
+    "EDQM": "10221000"
+  },
+  {
+    "RMS": "100000073666",
+    "Display name": "Orodispersible tablet",
+    "EDQM": "10223000"
+  },
+  {
+    "RMS": "100000073654",
+    "Display name": "Dispersible tablet",
+    "EDQM": "10121000"
+  },
+  {
+    "RMS": "100000073684",
+    "Display name": "Chewable tablet",
+    "EDQM": "10228000"
+  },
+  {
+    "RMS": "100000073707",
+    "Display name": "Dental powder",
+    "EDQM": "10405000"
+  },
+  {
+    "RMS": "100000073708",
+    "Display name": "Dental suspension",
+    "EDQM": "10407000"
+  },
+  {
+    "RMS": "100000073705",
+    "Display name": "Dental gel",
+    "EDQM": "10402000"
+  },
+  {
+    "RMS": "100000073719",
+    "Display name": "Cutaneous emulsion",
+    "EDQM": "10516000"
+  },
+  {
+    "RMS": "100000073720",
+    "Display name": "Cutaneous patch",
+    "EDQM": "10517500"
+  },
+  {
+    "RMS": "100000073723",
+    "Display name": "Dental solution",
+    "EDQM": "10406000"
+  },
+  {
+    "RMS": "100000073724",
+    "Display name": "Dental emulsion",
+    "EDQM": "10408000"
+  },
+  {
+    "RMS": "100000073717",
+    "Display name": "Cutaneous liquid",
+    "EDQM": "10512000"
+  },
+  {
+    "RMS": "100000073718",
+    "Display name": "Concentrate for cutaneous solution",
+    "EDQM": "10514000"
+  },
+  {
+    "RMS": "100000073655",
+    "Display name": "Oral powder",
+    "EDQM": "10201000"
+  },
+  {
+    "RMS": "100000073711",
+    "Display name": "Bath additive",
+    "EDQM": "10501000"
+  },
+  {
+    "RMS": "100000073743",
+    "Display name": "Cutaneous stick",
+    "EDQM": "10523000"
+  },
+  {
+    "RMS": "100000073763",
+    "Display name": "Concentrate for solution for fish treatment",
+    "EDQM": "10535000"
+  },
+  {
+    "RMS": "100000125761",
+    "Display name": "Powder for use in drinking water/milk",
+    "EDQM": "50055250"
+  },
+  {
+    "RMS": "100000073980",
+    "Display name": "Cutaneous spray, ointment",
+    "EDQM": "50016000"
+  },
+  {
+    "RMS": "100000143497",
+    "Display name": "Concentrate for oral suspension",
+    "EDQM": "10100500"
+  },
+  {
+    "RMS": "200000025952",
+    "Display name": "Effervescent tablet for suspension for nebulisation",
+    "EDQM": ""
+  },
+  {
+    "RMS": "100000073362",
+    "Display name": "Oral suspension",
+    "EDQM": "10106000"
+  },
+  {
+    "RMS": "100000073373",
+    "Display name": "Gastro-resistant granules",
+    "EDQM": "10206000"
+  },
+  {
+    "RMS": "100000073663",
+    "Display name": "Modified-release capsule, hard",
+    "EDQM": "10217000"
+  },
+  {
+    "RMS": "100000073971",
+    "Display name": "Chewable/dispersible tablet",
+    "EDQM": "50001000"
+  },
+  {
+    "RMS": "100000073686",
+    "Display name": "Continuous-release intraruminal device",
+    "EDQM": "10232000"
+  },
+  {
+    "RMS": "100000073699",
+    "Display name": "Buccal tablet",
+    "EDQM": "10320000"
+  },
+  {
+    "RMS": "100000073660",
+    "Display name": "Capsule, soft",
+    "EDQM": "10211000"
+  },
+  {
+    "RMS": "100000073712",
+    "Display name": "Cream",
+    "EDQM": "10502000"
+  },
+  {
+    "RMS": "100000073726",
+    "Display name": "Gel",
+    "EDQM": "10503000"
+  },
+  {
+    "RMS": "100000073839",
+    "Display name": "Inhalation powder",
+    "EDQM": "11109000"
+  },
+  {
+    "RMS": "100000073848",
+    "Display name": "Pressurised inhalation, solution",
+    "EDQM": "11106000"
+  },
+  {
+    "RMS": "100000073871",
+    "Display name": "Concentrate for solution for infusion",
+    "EDQM": "11213000"
+  },
+  {
+    "RMS": "100000073762",
+    "Display name": "Concentrate for dip emulsion",
+    "EDQM": "10534000"
+  },
+  {
+    "RMS": "100000073878",
+    "Display name": "Concentrate for solution for haemodialysis",
+    "EDQM": "11405000"
+  },
+  {
+    "RMS": "100000073899",
+    "Display name": "Bee smoke stick",
+    "EDQM": "12003000"
+  },
+  {
+    "RMS": "100000073976",
+    "Display name": "Concentrate for cutaneous spray, emulsion",
+    "EDQM": "50009000"
+  },
+  {
+    "RMS": "100000074066",
+    "Display name": "Powder for use in drinking water",
+    "EDQM": "50072000"
+  },
+  {
+    "RMS": "100000074069",
+    "Display name": "Concentrate for solution for injection/infusion",
+    "EDQM": "50079000"
+  },
+  {
+    "RMS": "100000073735",
+    "Display name": "Collodion",
+    "EDQM": "10520000"
+  },
+  {
+    "RMS": "100000125708",
+    "Display name": "Sublingual film",
+    "EDQM": "10317500"
+  },
+  {
+    "RMS": "100000125736",
+    "Display name": "Prolonged-release suspension for injection",
+    "EDQM": "11208500"
+  },
+  {
+    "RMS": "100000143504",
+    "Display name": "Solution for dental cement",
+    "EDQM": "10414000"
+  },
+  {
+    "RMS": "100000169869",
+    "Display name": "Urethral emulsion",
+    "EDQM": "13077000"
+  },
+  {
+    "RMS": "100000173996",
+    "Display name": "Concentrate for concentrate for solution for infusion",
+    "EDQM": "13001000"
+  },
+  {
+    "RMS": "100000174000",
+    "Display name": "Dispersion for concentrate for dispersion for infusion",
+    "EDQM": "13005000"
+  },
+  {
+    "RMS": "100000116138",
+    "Display name": "Intravesical solution",
+    "EDQM": "11502500"
+  },
+  {
+    "RMS": "100000174006",
+    "Display name": "Eye drops, powder for suspension",
+    "EDQM": "13011000"
+  },
+  {
+    "RMS": "100000174031",
+    "Display name": "Coated granules",
+    "EDQM": "13046000"
+  },
+  {
+    "RMS": "100000143501",
+    "Display name": "Dental cement",
+    "EDQM": "10401500"
+  },
+  {
+    "RMS": "200000012530",
+    "Display name": "Prolonged-release oral suspension",
+    "EDQM": "13134000"
+  },
+  {
+    "RMS": "100000073380",
+    "Display name": "Coated tablet",
+    "EDQM": "10220000"
+  },
+  {
+    "RMS": "100000073700",
+    "Display name": "Compressed lozenge",
+    "EDQM": "10322000"
+  },
+  {
+    "RMS": "100000073716",
+    "Display name": "Cutaneous spray, suspension",
+    "EDQM": "10510000"
+  },
+  {
+    "RMS": "100000073728",
+    "Display name": "Cutaneous foam",
+    "EDQM": "10507000"
+  },
+  {
+    "RMS": "100000073879",
+    "Display name": "Bladder irrigation",
+    "EDQM": "11502000"
+  },
+  {
+    "RMS": "100000111534",
+    "Display name": "Concentrate for dispersion for infusion",
+    "EDQM": "50009300"
+  },
+  {
+    "RMS": "100000170403",
+    "Display name": "Bee-hive dispersion",
+    "EDQM": "13082000"
+  },
+  {
+    "RMS": "200000017730",
+    "Display name": "Prolonged-release pessary",
+    "EDQM": "13148000"
+  },
+  {
+    "RMS": "100000116151",
+    "Display name": "Ear/eye/nasal drops, solution",
+    "EDQM": "50019500"
+  },
+  {
+    "RMS": "200000010390",
+    "Display name": "Urethral ointment",
+    "EDQM": "13123000"
+  },
+  {
+    "RMS": "100000171934",
+    "Display name": "Emulsion for suspension for injection",
+    "EDQM": "13091000"
+  },
+  {
+    "RMS": "100000174001",
+    "Display name": "Ear drops, powder for suspension",
+    "EDQM": "13006000"
+  },
+  {
+    "RMS": "100000174004",
+    "Display name": "Endotracheopulmonary instillation, powder for suspension",
+    "EDQM": "13009000"
+  },
+  {
+    "RMS": "100000174034",
+    "Display name": "Dispersion for injection/infusion",
+    "EDQM": "13049000"
+  },
+  {
+    "RMS": "100000073817",
+    "Display name": "Effervescent vaginal tablet",
+    "EDQM": "10913000"
+  },
+  {
+    "RMS": "100000073903",
+    "Display name": "Endocervical gel",
+    "EDQM": "11701000"
+  },
+  {
+    "RMS": "100000073657",
+    "Display name": "Effervescent granules",
+    "EDQM": "10205000"
+  },
+  {
+    "RMS": "200000010610",
+    "Display name": "Prolonged-release dispersion for injection",
+    "EDQM": "13126000"
+  },
+  {
+    "RMS": "100000073902",
+    "Display name": "Endotracheopulmonary instillation, suspension",
+    "EDQM": "11603000"
+  },
+  {
+    "RMS": "200000010456",
+    "Display name": "Prolonged-release wound solution",
+    "EDQM": "13128000"
+  },
+  {
+    "RMS": "200000025198",
+    "Display name": "Film-coated granules",
+    "EDQM": "13154000"
+  },
+  {
+    "RMS": "200000012531",
+    "Display name": "Modified-release oral suspension",
+    "EDQM": "13135000"
+  },
+  {
+    "RMS": "100000116161",
+    "Display name": "Mouthwash, powder for solution",
+    "EDQM": "50036050"
+  },
+  {
+    "RMS": "200000002160",
+    "Display name": "Nasal spray, lyophilisate for suspension",
+    "EDQM": "13096000"
+  },
+  {
+    "RMS": "100000116164",
+    "Display name": "Nasal/oromucosal spray, solution",
+    "EDQM": "50036700"
+  },
+  {
+    "RMS": "100000073920",
+    "Display name": "Stomach irrigation",
+    "EDQM": "12114000"
+  },
+  {
+    "RMS": "100000074004",
+    "Display name": "Gargle/mouthwash",
+    "EDQM": "50024000"
+  },
+  {
+    "RMS": "100000074022",
+    "Display name": "Inhalation vapour, emulsion",
+    "EDQM": "50032000"
+  },
+  {
+    "RMS": "100000074026",
+    "Display name": "Oromucosal patch",
+    "EDQM": "50039000"
+  },
+  {
+    "RMS": "100000074033",
+    "Display name": "Powder for intravesical solution",
+    "EDQM": "50050000"
+  },
+  {
+    "RMS": "100000075576",
+    "Display name": "Implantation suspension",
+    "EDQM": "11303500"
+  },
+  {
+    "RMS": "100000116156",
+    "Display name": "Granules for oral/rectal suspension",
+    "EDQM": "50029150"
+  },
+  {
+    "RMS": "100000116170",
+    "Display name": "Oral/rectal solution",
+    "EDQM": "50037900"
+  },
+  {
+    "RMS": "100000116171",
+    "Display name": "Oromucosal/laryngopharyngeal solution/spray, solution",
+    "EDQM": "50040500"
+  },
+  {
+    "RMS": "100000116168",
+    "Display name": "Oral drops, granules for solution",
+    "EDQM": "50037500"
+  },
+  {
+    "RMS": "100000073922",
+    "Display name": "Dispersion",
+    "EDQM": "12109000"
+  },
+  {
+    "RMS": "100000125733",
+    "Display name": "Medicated collar",
+    "EDQM": "10526500"
+  },
+  {
+    "RMS": "100000125754",
+    "Display name": "Intravesical solution/solution for injection",
+    "EDQM": "50033400"
+  },
+  {
+    "RMS": "100000125705",
+    "Display name": "Oromucosal spray, emulsion",
+    "EDQM": "10308100"
+  },
+  {
+    "RMS": "100000166800",
+    "Display name": "Lyophilisate for oral suspension",
+    "EDQM": "13067000"
+  },
+  {
+    "RMS": "100000143550",
+    "Display name": "Gargle/nasal wash",
+    "EDQM": "50024500"
+  },
+  {
+    "RMS": "100000167037",
+    "Display name": "Intramammary gel",
+    "EDQM": "13065000"
+  },
+  {
+    "RMS": "100000174005",
+    "Display name": "Eye drops, powder for solution",
+    "EDQM": "13010000"
+  },
+  {
+    "RMS": "100000171367",
+    "Display name": "Lyophilisate for oral spray, suspension",
+    "EDQM": "13089000"
+  },
+  {
+    "RMS": "100000173957",
+    "Display name": "Laryngopharyngeal spray, solution",
+    "EDQM": "13017000"
+  },
+  {
+    "RMS": "100000173958",
+    "Display name": "Matrix for implantation matrix",
+    "EDQM": "13018000"
+  },
+  {
+    "RMS": "100000174008",
+    "Display name": "Gas for dispersion for injection",
+    "EDQM": "13013000"
+  },
+  {
+    "RMS": "100000174011",
+    "Display name": "Laryngopharyngeal solution",
+    "EDQM": "13016000"
+  },
+  {
+    "RMS": "200000005113",
+    "Display name": "Medicinal larvae",
+    "EDQM": "13124000"
+  },
+  {
+    "RMS": "200000005069",
+    "Display name": "Medicinal leech",
+    "EDQM": "13115000"
+  },
+  {
+    "RMS": "200000005070",
+    "Display name": "Lyophilisate for emulsion for injection",
+    "EDQM": "13116000"
+  },
+  {
+    "RMS": "100000073753",
+    "Display name": "Spot-on emulsion",
+    "EDQM": "10542000"
+  },
+  {
+    "RMS": "100000073759",
+    "Display name": "Eye drops, solution",
+    "EDQM": "10604000"
+  },
+  {
+    "RMS": "100000073773",
+    "Display name": "Eye drops, emulsion",
+    "EDQM": "10604500"
+  },
+  {
+    "RMS": "100000073767",
+    "Display name": "Teat dip solution",
+    "EDQM": "10543000"
+  },
+  {
+    "RMS": "100000073769",
+    "Display name": "Transdermal system",
+    "EDQM": "10547000"
+  },
+  {
+    "RMS": "100000073782",
+    "Display name": "Eye drops, prolonged-release",
+    "EDQM": "10609000"
+  },
+  {
+    "RMS": "100000073811",
+    "Display name": "Vaginal cream",
+    "EDQM": "10901000"
+  },
+  {
+    "RMS": "100000073814",
+    "Display name": "Vaginal emulsion",
+    "EDQM": "10907000"
+  },
+  {
+    "RMS": "100000073815",
+    "Display name": "Pessary",
+    "EDQM": "10909000"
+  },
+  {
+    "RMS": "100000073816",
+    "Display name": "Vaginal capsule, soft",
+    "EDQM": "10911000"
+  },
+  {
+    "RMS": "100000073820",
+    "Display name": "Rectal foam",
+    "EDQM": "11004000"
+  },
+  {
+    "RMS": "100000073821",
+    "Display name": "Vaginal suspension",
+    "EDQM": "10906000"
+  },
+  {
+    "RMS": "100000073818",
+    "Display name": "Vaginal delivery system",
+    "EDQM": "10915000"
+  },
+  {
+    "RMS": "100000073836",
+    "Display name": "Powder for nebuliser suspension",
+    "EDQM": "11103000"
+  },
+  {
+    "RMS": "100000073825",
+    "Display name": "Medicated vaginal tampon",
+    "EDQM": "10914000"
+  },
+  {
+    "RMS": "100000073838",
+    "Display name": "Pressurised inhalation, suspension",
+    "EDQM": "11107000"
+  },
+  {
+    "RMS": "100000073843",
+    "Display name": "Suppository",
+    "EDQM": "11013000"
+  },
+  {
+    "RMS": "100000073823",
+    "Display name": "Vaginal capsule, hard",
+    "EDQM": "10910000"
+  },
+  {
+    "RMS": "100000073828",
+    "Display name": "Rectal ointment",
+    "EDQM": "11003000"
+  },
+  {
+    "RMS": "100000073830",
+    "Display name": "Rectal suspension",
+    "EDQM": "11006000"
+  },
+  {
+    "RMS": "100000073851",
+    "Display name": "Inhalation vapour, powder",
+    "EDQM": "11112000"
+  },
+  {
+    "RMS": "100000073853",
+    "Display name": "Inhalation vapour, tablet",
+    "EDQM": "11115000"
+  },
+  {
+    "RMS": "100000073865",
+    "Display name": "Gel for injection",
+    "EDQM": "11204000"
+  },
+  {
+    "RMS": "100000073850",
+    "Display name": "Inhalation powder, hard capsule",
+    "EDQM": "11110000"
+  },
+  {
+    "RMS": "100000073849",
+    "Display name": "Pressurised inhalation, emulsion",
+    "EDQM": "11108000"
+  },
+  {
+    "RMS": "100000073874",
+    "Display name": "Implant",
+    "EDQM": "11301000"
+  },
+  {
+    "RMS": "100000073882",
+    "Display name": "Lyophilisate for suspension for injection",
+    "EDQM": "11218000"
+  },
+  {
+    "RMS": "100000073893",
+    "Display name": "Intramammary suspension",
+    "EDQM": "11802000"
+  },
+  {
+    "RMS": "100000073880",
+    "Display name": "Urethral gel",
+    "EDQM": "11504000"
+  },
+  {
+    "RMS": "100000073886",
+    "Display name": "Solution for haemodialysis",
+    "EDQM": "11404000"
+  },
+  {
+    "RMS": "100000073917",
+    "Display name": "Gastroenteral solution",
+    "EDQM": "12108000"
+  },
+  {
+    "RMS": "100000073915",
+    "Display name": "Radiopharmaceutical precursor",
+    "EDQM": "12105000"
+  },
+  {
+    "RMS": "100000073916",
+    "Display name": "Radionuclide generator",
+    "EDQM": "12106000"
+  },
+  {
+    "RMS": "100000073365",
+    "Display name": "Granules for oral solution",
+    "EDQM": "10112000"
+  },
+  {
+    "RMS": "100000073370",
+    "Display name": "Herbal tea",
+    "EDQM": "10122000"
+  },
+  {
+    "RMS": "100000073923",
+    "Display name": "Gastroenteral emulsion",
+    "EDQM": "12111000"
+  },
+  {
+    "RMS": "100000073926",
+    "Display name": "Impregnated pad",
+    "EDQM": "12117000"
+  },
+  {
+    "RMS": "100000073928",
+    "Display name": "Medicated thread",
+    "EDQM": "12130000"
+  },
+  {
+    "RMS": "100000073943",
+    "Display name": "Intestinal gel",
+    "EDQM": "12120000"
+  },
+  {
+    "RMS": "100000073642",
+    "Display name": "Oral drops, solution",
+    "EDQM": "10101000"
+  },
+  {
+    "RMS": "100000073647",
+    "Display name": "Oral emulsion",
+    "EDQM": "10107000"
+  },
+  {
+    "RMS": "100000073690",
+    "Display name": "Gargle, tablet for solution",
+    "EDQM": "10304000"
+  },
+  {
+    "RMS": "100000073652",
+    "Display name": "Syrup",
+    "EDQM": "10117000"
+  },
+  {
+    "RMS": "100000073650",
+    "Display name": "Granules for oral suspension",
+    "EDQM": "10113000"
+  },
+  {
+    "RMS": "100000073661",
+    "Display name": "Gastro-resistant capsule, soft",
+    "EDQM": "10213000"
+  },
+  {
+    "RMS": "100000073662",
+    "Display name": "Prolonged-release capsule, hard",
+    "EDQM": "10215000"
+  },
+  {
+    "RMS": "100000073673",
+    "Display name": "Gargle",
+    "EDQM": "10301000"
+  },
+  {
+    "RMS": "100000073674",
+    "Display name": "Gargle, powder for solution",
+    "EDQM": "10303000"
+  },
+  {
+    "RMS": "100000073685",
+    "Display name": "Oral gum",
+    "EDQM": "10230000"
+  },
+  {
+    "RMS": "100000073683",
+    "Display name": "Prolonged-release tablet",
+    "EDQM": "10226000"
+  },
+  {
+    "RMS": "100000073697",
+    "Display name": "Gingival paste",
+    "EDQM": "10316000"
+  },
+  {
+    "RMS": "100000073698",
+    "Display name": "Sublingual tablet",
+    "EDQM": "10318000"
+  },
+  {
+    "RMS": "100000073704",
+    "Display name": "Pastille",
+    "EDQM": "10323000"
+  },
+  {
+    "RMS": "100000073721",
+    "Display name": "Periodontal powder",
+    "EDQM": "10401000"
+  },
+  {
+    "RMS": "100000073669",
+    "Display name": "Medicated chewing-gum",
+    "EDQM": "10229000"
+  },
+  {
+    "RMS": "100000073687",
+    "Display name": "Lick block",
+    "EDQM": "10234000"
+  },
+  {
+    "RMS": "100000073783",
+    "Display name": "Eye lotion, solvent for reconstitution",
+    "EDQM": "10611000"
+  },
+  {
+    "RMS": "100000073372",
+    "Display name": "Granules",
+    "EDQM": "10204000"
+  },
+  {
+    "RMS": "100000073671",
+    "Display name": "Pulsatile-release intraruminal device",
+    "EDQM": "10233000"
+  },
+  {
+    "RMS": "100000073709",
+    "Display name": "Toothpaste",
+    "EDQM": "10409000"
+  },
+  {
+    "RMS": "100000073840",
+    "Display name": "Inhalation powder, pre-dispensed",
+    "EDQM": "11111000"
+  },
+  {
+    "RMS": "100000073894",
+    "Display name": "Intramammary ointment",
+    "EDQM": "11804000"
+  },
+  {
+    "RMS": "100000073866",
+    "Display name": "Powder for solution for injection",
+    "EDQM": "11205000"
+  },
+  {
+    "RMS": "100000073742",
+    "Display name": "Medicated nail lacquer",
+    "EDQM": "10521000"
+  },
+  {
+    "RMS": "100000073725",
+    "Display name": "Periodontal insert",
+    "EDQM": "10411000"
+  },
+  {
+    "RMS": "100000073844",
+    "Display name": "Rectal capsule",
+    "EDQM": "11014000"
+  },
+  {
+    "RMS": "100000074021",
+    "Display name": "Inhalation powder, tablet",
+    "EDQM": "50030000"
+  },
+  {
+    "RMS": "100000074058",
+    "Display name": "Oral drops, powder for suspension",
+    "EDQM": "50082000"
+  },
+  {
+    "RMS": "100000143524",
+    "Display name": "Implantation matrix",
+    "EDQM": "11303300"
+  },
+  {
+    "RMS": "200000012529",
+    "Display name": "Gastro-resistant oral suspension",
+    "EDQM": "13133000"
+  },
+  {
+    "RMS": "200000003182",
+    "Display name": "Oral herbal material",
+    "EDQM": "13106000"
+  },
+  {
+    "RMS": "200000018780",
+    "Display name": "Oromucosal film",
+    "EDQM": "13149000"
+  },
+  {
+    "RMS": "200000017694",
+    "Display name": "Oromucosal pouch",
+    "EDQM": "13141000"
+  },
+  {
+    "RMS": "100000073649",
+    "Display name": "Powder for oral suspension",
+    "EDQM": "10111000"
+  },
+  {
+    "RMS": "100000073682",
+    "Display name": "Oral lyophilisate",
+    "EDQM": "10224000"
+  },
+  {
+    "RMS": "100000074027",
+    "Display name": "Oromucosal/laryngopharyngeal solution",
+    "EDQM": "50039500"
+  },
+  {
+    "RMS": "100000073799",
+    "Display name": "Vaginal gel",
+    "EDQM": "10902000"
+  },
+  {
+    "RMS": "100000074007",
+    "Display name": "Granules for vaginal solution",
+    "EDQM": "50029500"
+  },
+  {
+    "RMS": "100000073800",
+    "Display name": "Vaginal foam",
+    "EDQM": "10904000"
+  },
+  {
+    "RMS": "100000073822",
+    "Display name": "Tablet for vaginal solution",
+    "EDQM": "10908000"
+  },
+  {
+    "RMS": "100000116169",
+    "Display name": "Oral drops, liquid",
+    "EDQM": "50037750"
+  },
+  {
+    "RMS": "100000174010",
+    "Display name": "Granules for rectal suspension",
+    "EDQM": "13015000"
+  },
+  {
+    "RMS": "100000174023",
+    "Display name": "Implantation paste",
+    "EDQM": "13043000"
+  },
+  {
+    "RMS": "100000075581",
+    "Display name": "Granules for use in drinking water",
+    "EDQM": "50029250"
+  },
+  {
+    "RMS": "200000017728",
+    "Display name": "Impregnated cutaneous swab",
+    "EDQM": "13145000"
+  },
+  {
+    "RMS": "200000002162",
+    "Display name": "Lyophilisate for oculonasal suspension/use in drinking water",
+    "EDQM": "13098000"
+  },
+  {
+    "RMS": "100000073744",
+    "Display name": "Impregnated dressing",
+    "EDQM": "10525000"
+  },
+  {
+    "RMS": "100000073714",
+    "Display name": "Medicated plaster",
+    "EDQM": "10506000"
+  },
+  {
+    "RMS": "100000074029",
+    "Display name": "Powder for concentrate for solution for infusion",
+    "EDQM": "50043000"
+  },
+  {
+    "RMS": "100000073741",
+    "Display name": "Transdermal patch",
+    "EDQM": "10519000"
+  },
+  {
+    "RMS": "100000073364",
+    "Display name": "Powder for oral solution",
+    "EDQM": "10110000"
+  }
+]
