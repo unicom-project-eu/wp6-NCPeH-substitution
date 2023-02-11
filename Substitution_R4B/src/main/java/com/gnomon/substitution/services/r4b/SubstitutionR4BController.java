@@ -46,7 +46,7 @@ public class SubstitutionR4BController {
         // Disable server validation (don't pull the server's metadata first)
         ctx.getRestfulClientFactory().setServerValidationMode(ServerValidationModeEnum.NEVER);
         // Now create a client and use it
-        IGenericClient client = ctx.newRestfulGenericClient("https://jpa.unicom.datawizard.it/fhir");
+        IGenericClient client = ctx.newRestfulGenericClient("https://jpar4b.unicom.datawizard.it/fhir");
 
         // The list with the medicines to return
         String doseForm = _doseform;
