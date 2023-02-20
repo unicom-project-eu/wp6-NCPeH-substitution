@@ -58,6 +58,7 @@ public class SubstitutionR5Controller {
         if (_doseform.length() == 8) {
             doseForm = DoseformConversions.getInstance().getSPOR(_doseform);
         }
+        
 
         String substance = getParentSubstance(_substance).getBody().get_response();
         System.out.println(substance);
@@ -69,7 +70,7 @@ public class SubstitutionR5Controller {
                 .forResource(Ingredient.class)
                 .where(new TokenClientParam("reference-strength-substance").exactly().code(substance))
 //                .where(Ingredient.FOR.hasChainedProperty(MedicinalProductDefinition.PRODUCT_CLASSIFICATION.exactly().code(substance)))
-                .where(Ingredient.FOR.hasChainedProperty(MedicinalProductDefinition.NAME_LANGUAGE.exactly().code(country)))
+                .and(Ingredient.FOR.hasChainedProperty(MedicinalProductDefinition.NAME_LANGUAGE.exactly().code(country)))
                 .include(Ingredient.INCLUDE_FOR)
                 .returnBundle(Bundle.class)
                 .execute();
@@ -107,7 +108,15 @@ public class SubstitutionR5Controller {
             if (entry.getResource() instanceof MedicinalProductDefinition) {
                 MedicinalProductDefinition _mpd = (MedicinalProductDefinition) entry.getResource();
                 System.out.println(_mpd.getIdPart());
-                _productList.get(_mpdRelations.get(_mpd.getIdPart())).set_mpd(_mpd);
+                System.out.println(_mpd.getClassification().get(0).getCoding().get(0).getCode());
+                _mpd.getClassification().forEach(codeableConcept -> {
+                    codeableConcept.getCoding().forEach(coding -> {
+                        if(coding.getCode().equals("C08CA01"))
+                        {
+                            _productList.get(_mpdRelations.get(_mpd.getIdPart())).set_mpd(_mpd);
+                        }
+                    });
+                });
             }
 
             if (entry.getResource() instanceof AdministrableProductDefinition) {
@@ -131,9 +140,9 @@ public class SubstitutionR5Controller {
             MedicinalProductDefinition mpd2 = (MedicinalProductDefinition) o2.getResource();
 
             if (mpd1 != null)
-                System.out.println(mpd1.getIdPart());
+                System.out.println("MPD1: " + mpd1.getIdPart());
             if (mpd2 != null)
-                System.out.println(mpd2.getIdPart());
+                System.out.println("MPD2: " + mpd2.getIdPart());
             Ingredient ing1 = _productList.get(_mpdRelations.get(mpd1.getIdPart())).get_ing();
             Ingredient ing2 = _productList.get(_mpdRelations.get(mpd2.getIdPart())).get_ing();
 
