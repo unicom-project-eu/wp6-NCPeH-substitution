@@ -21,6 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.concurrent.atomic.AtomicInteger;
 
 @RestController
 public class SubstitutionR5Controller {
@@ -79,6 +80,7 @@ public class SubstitutionR5Controller {
 //        return ctx.newJsonParser().setPrettyPrint(true).encodeResourceToString(ingredientResults);
 
 
+        // In Ingredient FOR there are but not always on the same order:
         // 0 -> MedicinalProductDefinition
         // 1 -> ManufacturedItemDefinition
         // 2 -> AdministrableProductDefinition
@@ -95,13 +97,34 @@ public class SubstitutionR5Controller {
                     // search by string reference to a resource and add proper values to the maps
                     if (reference.getResource().getIdElement().getValue().contains("MedicinalProductDefinition")) {
                         System.out.println("Setting MPD for this ingredient");
-                        _mpdRelations.put(reference.getResource().getIdElement().getIdPart(), _ingredient.getIdPart());
+
+                        Bundle ingredients = client
+                                .search()
+                                .forResource(Ingredient.class)
+                                .where(Ingredient.FOR.hasId(reference.getResource().getIdElement().getIdPart()))
+                                .returnBundle(Bundle.class)
+                                .execute();
+                        System.out.println("++++++++++");
+                        System.out.println(ingredients.getEntry().size());
+                        // check if Ingredient belongs to an MPD with more than one Ingredients?
+                        if(ingredients.getEntry().size()==1)
+                            _mpdRelations.put(reference.getResource().getIdElement().getIdPart(), _ingredient.getIdPart());
                     }
                     if (reference.getResource().getIdElement().getValue().contains("AdministrableProductDefinition")) {
                         System.out.println("Setting APD for this ingredient");
+
+                        Bundle ingredients = client
+                                .search()
+                                .forResource(Ingredient.class)
+                                .where(Ingredient.FOR.hasId(reference.getResource().getIdElement().getIdPart()))
+                                .returnBundle(Bundle.class)
+                                .execute();
+                        if(ingredients.getEntry().size()==1)
                         _apdRelations.put(reference.getResource().getIdElement().getIdPart(), _ingredient.getIdPart());
                     }
                 });
+
+                if(_mpdRelations.values().contains(_ingredient.getIdPart()))
                 _productList.put(_ingredient.getIdPart(), _exIngredient);
             }
 
@@ -111,10 +134,8 @@ public class SubstitutionR5Controller {
                 System.out.println(_mpd.getClassification().get(0).getCoding().get(0).getCode());
                 _mpd.getClassification().forEach(codeableConcept -> {
                     codeableConcept.getCoding().forEach(coding -> {
-                        if(coding.getCode().equals("C08CA01"))
-                        {
-                            _productList.get(_mpdRelations.get(_mpd.getIdPart())).set_mpd(_mpd);
-                        }
+                        if(_mpdRelations.containsKey(_mpd.getIdPart()))
+                        _productList.get(_mpdRelations.get(_mpd.getIdPart())).set_mpd(_mpd);
                     });
                 });
             }
@@ -122,20 +143,37 @@ public class SubstitutionR5Controller {
             if (entry.getResource() instanceof AdministrableProductDefinition) {
                 AdministrableProductDefinition _adp = (AdministrableProductDefinition) entry.getResource();
                 System.out.println(_adp.getIdPart());
+                if(_apdRelations.containsKey(_adp.getIdPart()))
                 _productList.get(_apdRelations.get(_adp.getIdPart())).set_apd(_adp);
             }
         }
 
-        Bundle bundle = new Bundle();
+        System.out.println(_productList);
+
+        Bundle responseBundle = new Bundle();
+        responseBundle.setType(Bundle.BundleType.COLLECTION);
         _productList.values().forEach(extendedIngredient -> {
-            bundle.addEntry().setResource(extendedIngredient.get_mpd());
+            responseBundle.addEntry().setResource(extendedIngredient.get_mpd());
+//            responseBundle.getEntry()(extendedIngredient.get_mpd());
+
+//            Bundle.BundleEntryComponent entry = new Bundle.BundleEntryComponent();
+//            entry.setResource(extendedIngredient.get_mpd());
+//            entry.setFullUrl("urn:uuid:" + UUID.randomUUID().toString());
+//            entry.getRequest().setMethod(Bundle.HTTPVerb.POST);
+//            entry.getRequest().setUrl("MedicinalProductDefinition");
+//            responseBundle.addEntry(entry);
         });
-        bundle.setTotal(bundle.getEntry().size());
+        System.out.println("________________");
+        System.out.println(_productList.values().size());
+        System.out.println(_productList.keySet().size());
+        System.out.println("________________");
 
-        System.out.println(bundle.getEntry().size());
-        System.out.println(ctx.newJsonParser().setPrettyPrint(true).encodeResourceToString(bundle));
+        responseBundle.setTotal(responseBundle.getEntry().size());
 
-        Collections.sort(bundle.getEntry(), (o1, o2) -> {
+        System.out.println(responseBundle.getEntry().size());
+        System.out.println(ctx.newJsonParser().setPrettyPrint(true).encodeResourceToString(responseBundle));
+
+        Collections.sort(responseBundle.getEntry(), (o1, o2) -> {
             MedicinalProductDefinition mpd1 = (MedicinalProductDefinition) o1.getResource();
             MedicinalProductDefinition mpd2 = (MedicinalProductDefinition) o2.getResource();
 
@@ -156,6 +194,6 @@ public class SubstitutionR5Controller {
 
         });
 
-        return ctx.newJsonParser().setPrettyPrint(true).encodeResourceToString(bundle);
+        return ctx.newJsonParser().setPrettyPrint(true).encodeResourceToString(responseBundle);
     }
 }
